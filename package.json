@@ -1,11 +1,11 @@
 {
   "name": "clock-sample",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "module": "dist/index.esm.js",
   "type": "module",
   "description": "This is a library for displaying a timer countdown clock.",
   "main": "dist/index.cjs.js",
-  "types": "dist/types/index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "npm run start",
     "build": "rollup -c"
