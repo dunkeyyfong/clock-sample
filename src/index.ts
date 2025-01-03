@@ -1,1 +1,1 @@
-export * from "./components/Clock";
+export { default as Clock } from "./components/Clock";
