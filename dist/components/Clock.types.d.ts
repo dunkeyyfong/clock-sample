@@ -3,3 +3,4 @@ export type ClockProps = {
     style?: React.CSSProperties;
     className?: string;
 };
+//# sourceMappingURL=Clock.types.d.ts.map
