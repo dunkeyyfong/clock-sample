@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { ClockProps } from "./index";
+import { ClockProps } from "./Clock.types";
 
 const Clock: React.FC<ClockProps> = ({ format = "24h", style, className }) => {
   const [time, setTime] = useState(new Date());

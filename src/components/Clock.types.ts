@@ -3,5 +3,3 @@ export type ClockProps = {
   style?: React.CSSProperties;
   className?: string;
 };
-
-export { default as Clock } from "./Clock";
