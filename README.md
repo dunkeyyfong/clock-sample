@@ -45,3 +45,7 @@ export const ViewClock = () => {
 [Twitter](https://x.com/dunkeyyfong) - X
 
 ## J4F :D
+
+## Notes
+
+Use version 1.0.6, because it is the best version. If you use className, then download tailwindcss. Otherwise, use style to css it. I will update more in the future :D

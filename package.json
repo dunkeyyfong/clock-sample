@@ -3,6 +3,10 @@
   "version": "1.0.6",
   "module": "dist/index.esm.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunkeyyfong/clock-sample.git"
+  },
   "description": "This is a library for displaying a timer countdown clock.",
   "main": "dist/index.cjs.js",
   "types": "dist/index.d.ts",
