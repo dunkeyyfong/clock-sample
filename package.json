@@ -1,6 +1,6 @@
 {
   "name": "clock-sample",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "module": "dist/index.esm.js",
   "type": "module",
   "repository": {
